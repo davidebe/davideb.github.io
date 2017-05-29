@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Davide & Alex
+name: Davide
 
 # Short bio or description (displayed in the header)
 description: Writer, Founder, Consultant
@@ -18,15 +18,15 @@ avatar: https://avatars1.githubusercontent.com/u/859247
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: davideberretta@gmail.com
+  facebook: 
   flickr:
   github: barryclark/jekyll-now
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/davideberretta/
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: daveeday
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
